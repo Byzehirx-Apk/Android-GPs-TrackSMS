@@ -10,7 +10,7 @@ GSM Numarasi eksik veya fazla girilmesi durumunda hata
 3- Gönder buttonu ile "time" buttonu aynı işlevi yapar gönder buttonu o an ki konumu gönderir.
 
 4- Time yani zamanlayıcı buttonu ile sadece "saniye" bazlı zamanlayıcıdır. 1 dk 60 saniye ise biz 2 dk için 120 saniye yazmaliyiz sadece "rakam ile
-
+![alt text](https://www.hizliresim.com/8xuib3y)
 
 Uygulama her 30 saniyede bir konumunu günceller.
 
